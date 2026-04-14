@@ -1,4 +1,4 @@
-# 🌦 Weather Web Application
+# Weather Web Application
 
 A simple and interactive weather web application built using **HTML, CSS, and JavaScript** that fetches real-time weather data using a public API.
 
@@ -16,7 +16,7 @@ A simple and interactive weather web application built using **HTML, CSS, and Ja
 
 ---
 
-## 🛠 Technologies Used
+## Technologies Used
 
 * **HTML** – Structure of the app
 * **CSS** – Styling and layout
